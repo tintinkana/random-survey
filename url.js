@@ -9,5 +9,6 @@
 
 const urls = [
 	'https://forms.gle/Vd6uzEGj8JQM77Mj6',
+	'https://www.google.com/forms/about/',
 	'http://www.jieyoutsg.com/e/action/ListInfo/?classid=63'
 ];
