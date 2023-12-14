@@ -10,5 +10,5 @@
 const urls = [
 	'https://forms.gle/Vd6uzEGj8JQM77Mj6',
 	'https://www.google.com/forms/about/',
-	'https://forms.gle/Vd6uzEGj8JQM77Mj6'
+	'https://questant.jp/q/F3JRKG42'
 ];
