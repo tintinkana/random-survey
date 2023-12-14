@@ -9,6 +9,5 @@
 
 const urls = [
 	'https://forms.gle/Vd6uzEGj8JQM77Mj6',
-	'https://www.google.com/forms/about/',
 	'https://questant.jp/q/F3JRKG42'
 ];
