@@ -8,6 +8,11 @@
 
 
 const urls = [
-	'https://forms.gle/Vd6uzEGj8JQM77Mj6',
-	'https://questant.jp/q/F3JRKG42'
+	'https://forms.gle/3vCGYyWFx4oeXFq26', //仮：正当なし＆パフォーマンス45％
+        'https://forms.gle/GTsXPBciiPzTeEzu5', //仮：正当あり＆パフォーマンス45％
+        'https://forms.gle/FgA1R8WfBgU6t4rN8',//仮：正当あり＆パフォーマンス5％
+        'https://forms.gle/89FB32hD2ymzJFAWA',//仮：意義なし＆パフォーマンス5％
+        'https://forms.gle/aP5KP6bxjTYL7ygc6',//仮：意義なし＆パフォーマンス45％
+        'https://forms.gle/jKGLPVP12iYJwRLK9',//仮：意義あり＆パフォーマンス45％
+        'https://forms.gle/22FNbvLBr372Vsys7'//仮：意義あり＆パフォーマンス5％
 ];
